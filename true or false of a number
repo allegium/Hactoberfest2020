@@ -1,0 +1,7 @@
+const a1 = -3;
+if (a1==0) {
+    console.log ('True');
+}
+else {
+    console.log ('False');
+}
